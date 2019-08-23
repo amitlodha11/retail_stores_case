@@ -1,4 +1,4 @@
-Thank you for the opportunity to interview at Blackstone. 
+Thank you for the opportunity to interview. 
 
 In this folder you will find the code, writeup and presentation slide as requested by the case parameters. The comments in the code provide my 
 answers to the questions in the assignment. 
